@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+    <DTE version="1.0" xmlns="http://www.sii.cl/SiiDte">
+        <Documento ID="F13T34">
+            <Encabezado>
+                <IdDoc>
+                    <TipoDTE>34</TipoDTE>
+                    <Folio>13</Folio>
+                    <FchEmis>2020-07-17</FchEmis>
+                    <FmaPago>1</FmaPago>
+                    <FchVenc>2020-07-17</FchVenc>
+                </IdDoc>
+                <Emisor>
+                    <RUTEmisor>...</RUTEmisor>
+                    <RznSoc>...</RznSoc>
+                    <GiroEmis>...</GiroEmis>
+                    <Acteco>...</Acteco>
+                    <DirOrigen>...</DirOrigen>
+                    <CmnaOrigen>...</CmnaOrigen>
+                    <CiudadOrigen>...</CiudadOrigen>
+                </Emisor>
+                <Receptor>
+                    <RUTRecep>...</RUTRecep>
+                    <RznSocRecep>...</RznSocRecep>
+                    <GiroRecep>...</GiroRecep>
+                    <Contacto/>
+                    <DirRecep>...</DirRecep>
+                    <CmnaRecep>...</CmnaRecep>
+                    <CiudadRecep>...</CiudadRecep>
+                </Receptor>
+                <Totales>
+                    <MntExe>14999</MntExe>
+                    <MntTotal>14999</MntTotal>
+                </Totales>
+            </Encabezado>
+            <Detalle>
+                <NroLinDet>1</NroLinDet>
+                <CdgItem>
+                    <TpoCodigo>INT</TpoCodigo>
+                    <VlrCodigo>1</VlrCodigo>
+                </CdgItem>
+                <NmbItem>Atencin profesional mes de Junio 2020</NmbItem>
+                <QtyItem>1</QtyItem>
+                <UnmdItem>UNI</UnmdItem>
+                <PrcItem>14999</PrcItem>
+                <MontoItem>14999</MontoItem>
+            </Detalle>
+            <TED version="1.0">
+                <DD>
+                    <RE>99972220-K</RE>
+                    <TD>34</TD>
+                    <F>13</F>
+                    <FE>2020-07-17</FE>
+                    <RR>99942999-2</RR>
+                    <RSR>...</RSR>
+                    <MNT>14999</MNT>
+                    <IT1>Atencion profesional mes de Junio 2020</IT1>
+                    <CAF version="1.0">
+                        <DA>
+                            <RE>99972220-K</RE>
+                            <RS>...</RS>
+                            <TD>34</TD>
+                            <RNG>
+                                <D>3</D>
+                                <H>12</H>
+                            </RNG>
+                            <FA>2019-10-10</FA>
+                            <RSAPK>
+                                <M>2zHVYpcVNQRvS2yFuqdrh...TEQZx/m0t9HVTgWKZvlc6LSQ==</M>
+                                <E>Aw==</E>
+                            </RSAPK>
+                            <IDK>300</IDK>
+                        </DA>
+                        <FRMA algoritmo="SHA1withRSA">LaVkjISGu...sBtsQL1jR9lw==</FRMA>
+                    </CAF>
+                    <TSTED>2020-07-17T13:19:10</TSTED>
+                </DD>
+                <FRMT algoritmo="SHA1withRSA">LxZr6zmXRZIfTz7...IXS6sp4vfz2fIsA==</FRMT>
+            </TED>
+            <TmstFirma>2020-07-17T13:19:10</TmstFirma>
+        </Documento>
+    </DTE>

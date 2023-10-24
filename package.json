@@ -1,0 +1,21 @@
+{
+  "name": "sii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "start": "node build/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.8.6",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@chilkat/ck-node18-win64": "^9.50.95"
+  }
+}

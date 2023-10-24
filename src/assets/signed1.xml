@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<DTE version="1.0" xmlns="http://www.sii.cl/SiiDte">
+<Documento ID="F13T34">
+<Encabezado>
+<IdDoc>
+<TipoDTE>34</TipoDTE>
+<Folio>13</Folio>
+<FchEmis>2020-07-17</FchEmis>
+<FmaPago>1</FmaPago>
+<FchVenc>2020-07-17</FchVenc>
+</IdDoc>
+<Emisor>
+<RUTEmisor>...</RUTEmisor>
+<RznSoc>...</RznSoc>
+<GiroEmis>...</GiroEmis>
+<Acteco>...</Acteco>
+<DirOrigen>...</DirOrigen>
+<CmnaOrigen>...</CmnaOrigen>
+<CiudadOrigen>...</CiudadOrigen>
+</Emisor>
+<Receptor>
+<RUTRecep>...</RUTRecep>
+<RznSocRecep>...</RznSocRecep>
+<GiroRecep>...</GiroRecep>
+<Contacto/>
+<DirRecep>...</DirRecep>
+<CmnaRecep>...</CmnaRecep>
+<CiudadRecep>...</CiudadRecep>
+</Receptor>
+<Totales>
+<MntExe>14999</MntExe>
+<MntTotal>14999</MntTotal>
+</Totales>
+</Encabezado>
+<Detalle>
+<NroLinDet>1</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT</TpoCodigo>
+<VlrCodigo>1</VlrCodigo>
+</CdgItem>
+<NmbItem>Atencin profesional mes de Junio 2020</NmbItem>
+<QtyItem>1</QtyItem>
+<UnmdItem>UNI</UnmdItem>
+<PrcItem>14999</PrcItem>
+<MontoItem>14999</MontoItem>
+</Detalle>
+<TED version="1.0">
+<DD>
+<RE>99972220-K</RE>
+<TD>34</TD>
+<F>13</F>
+<FE>2020-07-17</FE>
+<RR>99942999-2</RR>
+<RSR>...</RSR>
+<MNT>14999</MNT>
+<IT1>Atencion profesional mes de Junio 2020</IT1>
+<CAF version="1.0">
+<DA>
+<RE>99972220-K</RE>
+<RS>...</RS>
+<TD>34</TD>
+<RNG>
+<D>3</D>
+<H>12</H>
+</RNG>
+<FA>2019-10-10</FA>
+<RSAPK>
+<M>2zHVYpcVNQRvS2yFuqdrh...TEQZx/m0t9HVTgWKZvlc6LSQ==</M>
+<E>Aw==</E>
+</RSAPK>
+<IDK>300</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">LaVkjISGu...sBtsQL1jR9lw==</FRMA>
+</CAF>
+<TSTED>2020-07-17T13:19:10</TSTED>
+</DD>
+<FRMT algoritmo="SHA1withRSA">LxZr6zmXRZIfTz7...IXS6sp4vfz2fIsA==</FRMT>
+</TED>
+<TmstFirma>2020-07-17T13:19:10</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod
+ Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod
+ Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#F13T34">
+<DigestMethod
+ Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>NYB3pz+HilnDl4wM1sANRD9btZ8=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+Ag2uk65FVO6WyknCHugJj1vlo1gEs28QthCtSbeExQ1Xw7WqJOLNrlFRYDvVd5JjyPXO//6A
+oEwsTTT0ziaMlzcO8XOCtEzylcufyQgO7Ma6SysWDsaoP+Zy28Ys3wsmK0GG0zOuP86CZt8Q
+6bNrhvt4JEtknoqRsjtLvJ2WX2cUiiK6Eu3vE28CfjzNH+BMjZ2kg5aC5alJLBTRILiVuMLt
+YQA0CILQGVlouWUZUhoAtMI+QYQMsEBWLyWWPAWn0yC+2na3U4BNFrn7cqQB3m4Hjeh2HurR
+cNeKOr0POBSLCMsMAo/7eHhBrR7tD5I1bxa4YL+3FCLSbLro3W+4zA==
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue>
+<Modulus>
+oKp9PRbjMPHec4eRApIfRHHvWVZxhxLVwtGPY9JaZCaWFZN2lQJbnswUYSMxPJtILiTt3tb/
+wnIxeLTtsCaIHrlsxh9/JXgC15z/bYMJYVx3K59l2JYgKhQO9V2pJuXiAf1pV0pv2uiU+eG3
+FF/x4OLuFeXMmgiVxzwHDa4wEvzHqgjuaGHM8gyMvdaaMSibNp29MYbpZYXzcMlsP0V2DLIW
+kph3ofbShDNzcivZXSqHFdournPLHx0cTsoD/5Pv7MZz6cfYXHAQxi2bdpUx2dqxXqXeSHW0
+ntOcsDkdkXhX52J9RQv5YJWM42IPmWrAtfX1zRKAVM4LxurNAKAmiw==
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIHxDCCBaygAwIBAgIKT1XiyQABAAJ13zANBgkqhkiG9w0BAQsFADCBvzELMAkGA1UEBhMC
+Q0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEU
+MBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3Jh
+MR4wHAYDVQQDExVFLUNFUlRDSElMRSBDQSBGRVMgMDIxJjAkBgkqhkiG9w0BCQEWF3NjbGll
+bnRlQGUtY2VydGNoaWxlLmNsMB4XDTIyMDgxMDEzMzYyM1oXDTI0MDgwOTEzMzYyM1owgcAx
+CzAJBgNVBAYTAkNMMRYwFAYDVQQIDA1MQSBBUkFVQ0FOw41BMRAwDgYDVQQHDAdDQVVUw41O
+MSgwJgYDVQQKDB9QQVRSSUNJTyBBTEVKQU5EUk8gTVVOUk8gTVXDkU9aMQowCAYDVQQLDAEq
+MSgwJgYDVQQDDB9QQVRSSUNJTyBBTEVKQU5EUk8gTVVOUk8gTVXDkU9aMScwJQYJKoZIhvcN
+AQkBFhhQQVRSSUNJTy5NVU5ST0BHTUFJTC5DT00wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQCgqn09FuMw8d5zh5ECkh9Ece9ZVnGHEtXC0Y9j0lpkJpYVk3aVAluezBRhIzE8
+m0guJO3e1v/CcjF4tO2wJogeuWzGH38leALXnP9tgwlhXHcrn2XYliAqFA71Xakm5eIB/WlX
+Sm/a6JT54bcUX/Hg4u4V5cyaCJXHPAcNrjAS/MeqCO5oYczyDIy91poxKJs2nb0xhullhfNw
+yWw/RXYMshaSmHeh9tKEM3NyK9ldKocV2i6uc8sfHRxOygP/k+/sxnPpx9hccBDGLZt2lTHZ
+2rFepd5IdbSe05ywOR2ReFfnYn1FC/lglYzjYg+ZasC19fXNEoBUzgvG6s0AoCaLAgMBAAGj
+ggK9MIICuTCCAV8GA1UdIASCAVYwggFSMIIBTgYIKwYBBAHDUgUwggFAMD0GCCsGAQUFBwIB
+FjFodHRwczovL3d3dy5lLWNlcnRjaGlsZS5jbC9wb2xpdGljYXMteS1wcmFjdGljYXMvMIH+
+BggrBgEFBQcCAjCB8R6B7gBFAGwAIAByAGUAcwBwAG8AbgBkAGUAcgAgAGUAcwB0AGUAIABm
+AG8AcgBtAHUAbABhAHIAaQBvACAAZQBzACAAdQBuACAAcgBlAHEAdQBpAHMAaQB0AG8AIABp
+AG4AZABpAHMAcABlAG4AcwBhAGIAbABlACAAcABhAHIAYQAgAGQAYQByACAAaQBuAGkAYwBp
+AG8AIABhAGwAIABwAHIAbwBjAGUAcwBvACAAZABlACAAYwBlAHIAdABpAGYAaQBjAGEAYwBp
+APMAbgAuACAAUABvAHMAdABlAHIAaQBvAHIAbQBlAG4AdABlACwwHQYDVR0OBBYEFE/MNRxz
+8NsgTU/GwSGdGc1DE8uXMAsGA1UdDwQEAwIE8DAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwW
+CjEwMjc4NzAyLTEwHwYDVR0jBBgwFoAUdNYhs/Ra6C18u1kGY0PvabQ6kwQwQAYDVR0fBDkw
+NzA1oDOgMYYvaHR0cDovL2NybC5lY2VydGNoaWxlLmNsL0UtQ0VSVENISUxFQ0FGRVMwMi5j
+cmwwPQYIKwYBBQUHAQEEMTAvMC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcGZlcy5lY2VydGNo
+aWxlLmNsL29jc3AwPAYJKwYBBAGCNxUHBC8wLQYlKwYBBAGCNxUIgd3STZfUOoaJnQaHiM5v
+g6/MYEWG75pehuePUQIBZAIBBzAjBgNVHRIEHDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgw
+LTUwDQYJKoZIhvcNAQELBQADggIBAEVWRgElwx4dhC2WumUs2XTXfO78jmztpwB9O7K+hc7B
+wT+4D3Etns/K/ZkjXL/z3g7IWqp/mAPFvOJO1HHTTeXf/sMEA46xu36zpbd84NNMgu7yoY2O
+0XCTKwkGrkErOwQYy1Wt8rmzp+8RuPAg9OL7TkKkY965PexJ8N2BKtQDPBfvDf9SFXYYU8oT
++5lkGJAGEkpAGYt+YcFBAxMQUZbd0oM2Q0DMbQhgWGOA+A/SWIuj5z74IzqKcS2tRJlicYfm
+H7dQZp1yip7r+03qJ5dHy1CAmEQFAqzLsztVkxQ8YFKXIjIXgQ+8zlqCbUkM6tALXMlJxUrD
+8gPu9EdU+NvWXk2IF6EJBNHHcbf5KT5ELdL1o0/Tnj1fWiapPzI84+XbxHlt6ku815ZWe7Dj
+C7bwThc4xtw2vWMSkYetSJF1lzRyOFNV6Ois7nSzfSP/OaxBAxVf0XEjtPLqagWXVxCD053m
+6btKgD5XquRxHN0/e6Uu7tK4mbdaFsX4mg0pS+hMPioEWE3TGdmO/tKi9nQ5h2QTQIt+frCj
+n7LI6myctMsJlJMS/FNYaCxVE2auAGHUlW1LLJC399IiL8dJh1SUiCYFcp+TOZ+OW+wLWzo5
+yuvjDv3/Imky3AQq7MBxmVAspOHcUf9cyRCjKaJvK9j03KfMyEzAhyW/XOo6UJd8
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
